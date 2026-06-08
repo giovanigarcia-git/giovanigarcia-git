@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 ## 📈 BI & Analytics
 
 <div style="display: inline_block">
-<img align="center" alt="Power BI" height="50" width="60" src="https://cdn.simpleicons.org/powerbi/F2C811">
-<img align="center" alt="Tableau" height="50" width="60" src="https://cdn.simpleicons.org/tableau/E97627">
+<img align="center" alt="Power BI" height="50" width="60" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg">
+<img align="center" alt="Tableau" height="50" width="60" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg">
 <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
@@ -48,16 +48,17 @@ Here are some ideas to get you started:
 
 <div align="left">
 <img align="center" alt="Azure" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" />
-<img align="center" alt="AWS" height="50" width="60" src="https://cdn.simpleicons.org/amazonaws">
+<img align="center" alt="AWS" height="50" width="60" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg">
 <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giovanigarcia-git&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanigarcia-git&layout=compact&theme=tokyonight)
+<div align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanigarcia-git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanigarcia-git&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
 ## 🌎 Onde me encontrar
 
