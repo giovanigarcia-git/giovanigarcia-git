@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 ## 📈 BI & Analytics
 
 <div align="left">
-<img align="center" alt="Power BI" height="50" width="60" src="https://cdn.simpleicons.org/powerbi/F2C811">
-<img align="center" alt="Tableau" height="50" width="60" src="https://cdn.simpleicons.org/tableau/E97627">
+<img align="center" alt="Power BI" height="50" width="60" src="https://cdn.simpleicons.org/powerbi">
+<img align="center" alt="Tableau" height="50" width="60" src="https://cdn.simpleicons.org/tableau">
 <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <div align="left">
 <img align="center" alt="Azure" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-<img align="center" alt="AWS" height="50" width="60" src="https://cdn.simpleicons.org/amazonaws/FF9900">
+<img align="center" alt="AWS" height="50" width="60" src="https://cdn.simpleicons.org/amazonaws">
 <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
