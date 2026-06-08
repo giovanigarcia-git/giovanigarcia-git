@@ -76,10 +76,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 ## ☁️ Cloud & DevOps
 
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-<img src="https://cdn.simpleicons.org/amazonaws/FF9900">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" alt="Azure" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+<img align="center" alt="AWS" height="50" width="60" src="https://cdn.simpleicons.org/amazonaws/FF9900">
+<img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+<img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
 ## 📊 Estatísticas
