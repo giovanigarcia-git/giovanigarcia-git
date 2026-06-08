@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 
 ## 📈 BI & Analytics
 
-<div align="left">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+<div style="display: inline_block">
+<img align="center" alt="Power BI" height="50" width="60" src="https://cdn.simpleicons.org/powerbi/F2C811">
+<img align="center" alt="Tableau" height="50" width="60" src="https://cdn.simpleicons.org/tableau/E97627">
 <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
