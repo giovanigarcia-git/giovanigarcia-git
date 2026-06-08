@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ## ☁️ Cloud & DevOps
 
 <div align="left">
-<img align="center" alt="Azure" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+<img align="center" alt="Azure" height="50" width="60" src="https://cdn.simpleicons.org/microsoftazure/0078D4">
 <img align="center" alt="AWS" height="50" width="60" src="https://cdn.simpleicons.org/amazonaws">
 <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
