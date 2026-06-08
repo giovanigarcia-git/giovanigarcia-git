@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ## 📈 BI & Analytics
 
 <div align="left">
-<img align="center" alt="Power BI" height="50" width="60" src="https://cdn.simpleicons.org/powerbi">
+<img align="center" alt="Tableau" height="50" width="60" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 <img align="center" alt="Tableau" height="50" width="60" src="https://cdn.simpleicons.org/tableau">
 <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
