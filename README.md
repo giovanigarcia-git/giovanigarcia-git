@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 ## 📈 BI & Analytics
 
 <div style="display: inline_block">
-<img align="center" alt="Power BI" height="50" width="60" src="./icons/powerbi.svg" />
+<img align="center" alt="Power BI" height="50" width="60" src="./icons/oracle.svg" />
 &nbsp;
 <img align="center" alt="Tableau" height="50" width="60" src="./icons/tableau.svg" />
 &nbsp;
-<img align="center" alt="Tableau" height="50" width="60" src="./icons/oracle.svg" />
+<img align="center" alt="Tableau" height="50" width="60" src="./icons/powerbi.svg" />
 </div>
 <br>
 
