@@ -13,7 +13,6 @@
 
 <div align="left">
 <img align="center" alt="Delphi" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg">
-<img align="center" alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" alt="Outros" src="https://skillicons.dev/icons?i=py,js,nodejs,react,html,css,vite" />
 </div>
 <br>
