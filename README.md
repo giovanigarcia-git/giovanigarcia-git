@@ -1,4 +1,10 @@
-## Hi there 👋
+## Olá, eu sou Giovani Garcia 👋
+
+💼 Especialista em Business Intelligence, Analytics, Engenharia de Dados e Desenvolvimento de Software
+📊 Transformando dados em insights, automações e decisões estratégicas
+🚀 Experiência com BI, Governança de Dados, Cloud, Desenvolvimento Full Stack e Inteligência Artificial
+💡 Construindo soluções que conectam tecnologia, dados e negócios
+
 
 <!--
 **giovanigarcia-git/giovanigarcia-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,8 +42,8 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block">
 <img align="center" alt="Python" src="https://skillicons.dev/icons?i=py" />
-<img align="center" alt="Power BI" height="50" width="60" src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-<img align="center" alt="Tableau" height="50" width="60" src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
+<img align="center" alt="Power BI" height="50" width="60" src="./icons/powerbi.svg" />
+<img align="center" alt="Tableau" height="50" width="60" src="./icons/tableau.svg" />
 </div>
 <br>
 
