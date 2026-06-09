@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <div align="left">
 <img align="center" alt="Delphi" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg">
 <img align="center" alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" alt="Outros" src="https://skillicons.dev/icons?i=nodejs,react,html,css,vite" />
+<img align="center" alt="Outros" src="https://skillicons.dev/icons?i=py,nodejs,react,html,css,vite" />
 </div>
 <br>
 
@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 ## 📈 BI & Analytics
 
 <div style="display: inline_block">
-<img align="center" alt="Python" src="https://skillicons.dev/icons?i=py" />
 <img align="center" alt="Power BI" height="50" width="60" src="./icons/powerbi.svg" />
 <img align="center" alt="Tableau" height="50" width="60" src="./icons/tableau.svg" />
 </div>
