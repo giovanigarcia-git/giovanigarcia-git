@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 ## 💻 Desenvolvimento
 
 <div align="left">
-[![My Skills](https://skillicons.dev/icons?i=dnodejs,react,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,html,css)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=react,nodejs,html,git,docker,azure,aws,python,postgres,mysql" />
 <img align="center" alt="Delphi" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg">
 <img align="center" alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
