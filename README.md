@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block">
 <img align="center" alt="Python" src="https://skillicons.dev/icons?i=py" />
-<img align="center" alt="Power BI" height="50" width="60" src="https://cdn.simpleicons.org/powerbi/F2C811" />
-<img align="center" alt="Tableau" height="50" width="60" src="https://cdn.simpleicons.org/tableau/E97627" />
+<img align="center" alt="Power BI" height="50" width="60" src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+<img align="center" alt="Tableau" height="50" width="60" src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
 </div>
 <br>
 
