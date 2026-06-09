@@ -17,22 +17,20 @@ Here are some ideas to get you started:
 ## 💻 Desenvolvimento
 
 <div align="left">
-<img align="center" alt="Outros" src="https://skillicons.dev/icons?i=nodejs,react,html,css" />
 <img align="center" alt="Delphi" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg">
 <img align="center" alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" alt="Outros" src="https://skillicons.dev/icons?i=nodejs,react,html,css,vite" />
 </div>
 <br>
-
 
 ## 🗄️ Banco de Dados
 
 <div align="left">
 <img align="center" alt="Oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
 <img align="center" alt="SQL Server" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-<img align="center" alt="Bancos" src="https://skillicons.dev/icons?i=mysql,postgres" />
+<img align="center" alt="Bancos" src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
 </div>
 <br>
-
 
 ## 📈 BI & Analytics
 
@@ -43,14 +41,19 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-
 ## ☁️ Cloud & DevOps
 
 <div align="left">
-<img align="center" alt="Cloud" src="https://skillicons.dev/icons?i=azure,aws,docker,git,github,gitlab" />
+<img align="center" alt="Cloud" src="https://skillicons.dev/icons?i=azure,aws,docker,redhat,kafka,kubernetes,openshift,linux,ubuntu,powershell,git,github,gitlab" />
 </div>
 <br>
 
+## 🤖 Ferramentas
+
+<div align="left">
+<img align="center" alt="Cloud" src="https://skillicons.dev/icons?i=pycharm,vscode,notion" />
+</div>
+<br>
 
 ## 📊 Estatísticas
 
