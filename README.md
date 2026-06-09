@@ -1,26 +1,15 @@
-## Olá, eu sou Giovani Garcia 👋
-
-💼 Especialista em Business Intelligence, Analytics, Engenharia de Dados e Desenvolvimento de Software
-📊 Transformando dados em insights, automações e decisões estratégicas
-🚀 Experiência com BI, Governança de Dados, Cloud, Desenvolvimento Full Stack e Inteligência Artificial
-💡 Construindo soluções que conectam tecnologia, dados e negócios
-
-
 <!--
 **giovanigarcia-git/giovanigarcia-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-## 💻 Desenvolvimento
+
+## Olá, eu sou Giovani Garcia 👋
+
+💼 Especialista em Business Intelligence, Analytics, Engenharia de Dados e Desenvolvimento de Software <br>
+📊 Transformando dados em insights, automações e decisões estratégicas <br>
+🚀 Experiência com BI, Governança de Dados, Cloud, Desenvolvimento Full Stack e Inteligência Artificial <br>
+💡 Construindo soluções que conectam tecnologia, dados e negócios <br>
+
+## Desenvolvimento
 
 <div align="left">
 <img align="center" alt="Delphi" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg">
@@ -29,7 +18,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-## 🗄️ Banco de Dados
+## Banco de Dados
 
 <div align="left">
 <img align="center" alt="Oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
@@ -38,7 +27,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-## 📈 BI & Analytics
+## BI & Analytics
 
 <div style="display: inline_block">
 <img align="center" alt="Power BI" height="50" width="60" src="./icons/oracle.svg" />
@@ -49,21 +38,21 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-## ☁️ Cloud & DevOps
+## Cloud & DevOps
 
 <div align="left">
 <img align="center" alt="Cloud" src="https://skillicons.dev/icons?i=azure,aws,docker,redhat,kafka,kubernetes,openshift,linux,ubuntu,powershell,git,github,gitlab" />
 </div>
 <br>
 
-## 🤖 Ferramentas
+## Ferramentas
 
 <div align="left">
 <img align="center" alt="Cloud" src="https://skillicons.dev/icons?i=pycharm,vscode,notion" />
 </div>
 <br>
 
-## 📊 Estatísticas
+## Estatísticas
 
 <div align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanigarcia-git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
