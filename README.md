@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 <img align="center" alt="Delphi" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg">
 <img align="center" alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
+<br>
+
 
 ## 🗄️ Banco de Dados
 
@@ -29,8 +31,8 @@ Here are some ideas to get you started:
 <img align="center" alt="SQL Server" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 <img align="center" alt="Bancos" src="https://skillicons.dev/icons?i=mysql,postgres" />
 </div>
+<br>
 
-**Especialidade:** SQL e PL/SQL
 
 ## 📈 BI & Analytics
 
@@ -39,12 +41,16 @@ Here are some ideas to get you started:
 <img align="center" alt="Power BI" height="50" width="60" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg">
 <img align="center" alt="Tableau" height="50" width="60" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg">
 </div>
+<br>
+
 
 ## ☁️ Cloud & DevOps
 
 <div align="left">
 <img align="center" alt="Cloud" src="https://skillicons.dev/icons?i=azure,aws,docker,git,github,gitlab" />
 </div>
+<br>
+
 
 ## 📊 Estatísticas
 
@@ -52,6 +58,8 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanigarcia-git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanigarcia-git&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
+<br>
+
 
 ## 🌎 Onde me encontrar
 
