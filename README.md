@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 ## 💻 Desenvolvimento
 
 <div align="left">
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,html,css)](https://skillicons.dev)
-<img src="https://skillicons.dev/icons?i=react,nodejs,html,git,docker,azure,aws,python,postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,react,html,css" />
 <img align="center" alt="Delphi" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg">
 <img align="center" alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
@@ -28,8 +27,7 @@ Here are some ideas to get you started:
 <div align="left">
 <img align="center" alt="Oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
 <img align="center" alt="SQL Server" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-<img align="center" alt="PostgreSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-<img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </div>
 
 **Especialidade:** SQL e PL/SQL
@@ -37,18 +35,15 @@ Here are some ideas to get you started:
 ## 📈 BI & Analytics
 
 <div style="display: inline_block">
+<img src="https://skillicons.dev/icons?i=py" />
 <img align="center" alt="Power BI" height="50" width="60" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg">
 <img align="center" alt="Tableau" height="50" width="60" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg">
-<img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
 ## ☁️ Cloud & DevOps
 
 <div align="left">
-<img align="center" alt="Azure" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" />
-<img align="center" alt="AWS" height="50" width="60" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg">
-<img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-<img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github,gitlab" />
 </div>
 
 ## 📊 Estatísticas
@@ -60,4 +55,4 @@ Here are some ideas to get you started:
 
 ## 🌎 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](giovani-garcia-businessintelligence)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/giovani-garcia-businessintelligence/)
